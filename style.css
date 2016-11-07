@@ -1,7 +1,20 @@
+.wrapper {
+  margin: 0 auto;
+  width: 700px;
+  background-color: rgb(53,27,102);
+  padding: 30px;
+}
+html {
+  min-height: 100%;
+  position: relative;
+}
 body {
   background-color: rgb(177,156,217);
-  color: rgb(53,27,102);
+  color: rgb(177,156,217);
   font-family: helvetica,sans-serif;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 100px;
 }
 h1 {
   font-family: helvetica,sans-serif;
@@ -27,5 +40,19 @@ a {
   padding-bottom: 20px;
 }
 img {
+  display: block;
+  margin: 0 auto;
   border-radius: 15px;
+}
+footer {
+  color: rgb(53,27,102);
+  bottom: 0;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+footer .wrapper {
+  background-color: transparent;
+  padding: 0;
 }
