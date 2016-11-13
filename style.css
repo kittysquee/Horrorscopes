@@ -78,3 +78,6 @@ footer .wrapper {
 .fb-share-button{
   display: none;
 }
+.twitter-share-button{
+  visibility: hidden;
+}
