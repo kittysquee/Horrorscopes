@@ -75,7 +75,6 @@ footer .wrapper {
 .fb_iframe_widget span {
       height: 24px !important;
 }
-.fb-share-button,
-.twitter-share-button{
+.fb-share-button{
   display: none;
 }
