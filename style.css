@@ -72,6 +72,6 @@ footer .wrapper {
   background-color: transparent;
   padding: 0;
 }
-.fb-share-button, .twitter-share-button {
-  
+.fb_iframe_widget span {
+      height: 24px !important;
 }
