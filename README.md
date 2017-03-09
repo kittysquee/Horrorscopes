@@ -15,7 +15,7 @@ I also learned some basic CSS:
 * Setting fonts and default fonts for different machines
 * Doing nice things like rounding off buttons
 
-I also learned how to include the Facebook and Twitter share buttons (it was a pain in the ass to line them up but I got there eventually! 
+I also learned how to include the Facebook and Twitter share buttons (it was a pain in the ass to line them up but I got there eventually!) 
 
 To steal and mangle a quote from Lilo and Stitch:
 >This is my first website. I made it, all on my own. It's little, and simple, but still good. Yeah, still good.
